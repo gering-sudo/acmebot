@@ -9,4 +9,7 @@
             }
         }
     }
+    "http_challenges": {
+        "acme-stg.eventim.de": "/var/www/htdocs/.well-known/acme-challenge"
+    }
 }
